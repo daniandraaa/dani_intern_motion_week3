@@ -1,16 +1,13 @@
 # dani_motionintern_week_3
 
-A new Flutter project.
+tugas motion pagination with extract widget
 
-## Getting Started
+berikut tamopilan page kontak di telegram IOS version
 
-This project is a starting point for a Flutter application.
+![telegram-cloud-photo-size-5-6197052086714218356-y](https://github.com/daniandraaa/dani_intern_motion_week3/assets/97142290/dcbe38af-50cf-42aa-a6de-74f9c7da6646)
 
-A few resources to get you started if this is your first Flutter project:
+brikut tampilan page obrolan di telegram IOS version
+![telegram-cloud-photo-size-5-6197052086714218357-y](https://github.com/daniandraaa/dani_intern_motion_week3/assets/97142290/63ceee48-9c4d-47be-b8ce-faf50c851e7a)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+berikut tampilan page Pengaturan di telegram IOS version
+![telegram-cloud-photo-size-5-6197052086714218356-y](https://github.com/daniandraaa/dani_intern_motion_week3/assets/97142290/633ace06-4733-4466-a962-38327c13d96c)
